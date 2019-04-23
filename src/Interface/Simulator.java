@@ -1,4 +1,4 @@
-package anotherTechnique;
+package Interface;
 
 import java.awt.*;
 import java.util.Random;
@@ -183,11 +183,11 @@ private int newRowR2;
         this.myDisplayer = myDisplayer;
     }
 
-    public anotherTechnique.Rectangle getMyRectangle() {
+    public Interface.Rectangle getMyRectangle() {
         return myRectangle;
     }
 
-    public void setMyRectangle(anotherTechnique.Rectangle myRectangle) {
+    public void setMyRectangle(Interface.Rectangle myRectangle) {
         this.myRectangle = myRectangle;
     }
 }//fin de clase

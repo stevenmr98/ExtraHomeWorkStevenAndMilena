@@ -1,4 +1,7 @@
-package anotherTechnique;
+package Main;
+
+import Interface.DisplayFrame;
+import Interface.Simulator;
 
 class MainClass {
 

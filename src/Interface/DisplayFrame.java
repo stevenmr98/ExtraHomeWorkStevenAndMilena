@@ -1,4 +1,4 @@
-package anotherTechnique;
+package Interface;
 
 import javax.swing.*;
 import java.awt.event.*;

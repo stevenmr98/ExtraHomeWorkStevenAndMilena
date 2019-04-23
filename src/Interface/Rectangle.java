@@ -1,4 +1,4 @@
-package anotherTechnique;
+package Interface;
 import java.util.Random;
 public class Rectangle {
     private int row;
